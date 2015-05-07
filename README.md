@@ -1,10 +1,9 @@
-# PDFJSPhonegap
-PDF.js for Phonegap
+# PDF.js For Phonegap
 
 This is a custom build made for Phonegap developers since both iPhone and Android runs Webkit.
 Webkit lacks many features requested from official Mozilla PDF.js version.
 
-It was tested on iPhone 6.1, Android SDK 10 (version 2.3) and above. It might work with IE8 aswell, but it wasn't verified.
+It was tested on *iPhone 6.1*, *Android SDK 10 (version 2.3)* and above. It might work with *IE8* aswell, but it wasn't verified.
 
 The PDF.js version i got was 1.0.1040 - a pretty stable and fast version that might be good in most cases. 
 
